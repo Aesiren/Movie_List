@@ -43,6 +43,14 @@ function App() {
     setSearchList([]);
   }
 
+  function addUSerMovie(formData) {
+
+  }
+
+  function removeMovie(id) {
+
+  }
+
   if (searchOn) {
     return (
       <>
